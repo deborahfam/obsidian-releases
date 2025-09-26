@@ -1,5 +1,14 @@
 [
   {
+  "id": "wisper-local-server",
+  "name": "Wisper (Local Server)",
+  "author": "Deborah Famadas Rodríguez",
+  "description": "Record audios, send them to a local Whisper server, and save transcripts.",
+  "repo": "deborahfam/obsidian-wisper-local-server",
+  "branch": "main",
+  "version": "0.1.0"
+  },
+  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
